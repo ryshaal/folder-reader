@@ -7,6 +7,9 @@ Folder Reader is a command-line tool that helps you analyze and understand your 
 
 This Python script reads the directory structure of a given folder and outputs the folder hierarchy in both **Markdown** and **Plain Text** formats. The generated files are saved into separate directories (`result_md` for Markdown and `result_txt` for plain text).
 
+<a href="https://ko-fi.com/riyhsal">
+  <img src="https://ryshaal.github.io/assets/img/doante.svg" width="182" alt="Donate">
+</a>
   
 
 ## Features
